@@ -1,0 +1,22 @@
+{
+  "name": "WebScraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "jsdom": "^15.1.1",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.6.0",
+    "parse5": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
