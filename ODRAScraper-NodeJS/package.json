@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "moment": "^2.24.0",
     "node-fetch": "^2.6.0",
     "parse5": "^5.1.0"
